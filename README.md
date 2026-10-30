@@ -1,2 +1,18 @@
-# qianduoduo-ai-cutter-updates
-Public releases and in-app updates for QianDuoDuo AI Cutter. Application source is maintained privately.
+# 钱多多 AI 智能混剪 · 软件更新
+
+此公开仓库用于分发 Windows 版程序更新，应用源码单独维护。
+
+[查看最新版本与更新说明](https://github.com/alvaro408/qianduoduo-ai-cutter-updates/releases/latest)
+
+## 使用方法
+
+首次使用或从旧版升级，请联系软件提供者获取带更新功能的完整发行包。
+安装 v2.1.0 或后续版本后，可点击软件右上角“检查更新”。软件启动后也会自动检查。
+
+确认更新后，程序会下载并校验更新文件，退出软件后安装，再重新启动。
+更新会保留本地配置、账号、授权及作品。请等视频处理、发布和扫码登录任务完成后再安装更新。
+
+Release 中的 `qianduoduo-update.zip` 是程序更新包，`update.json` 是版本校验信息。
+请通过软件内更新功能使用这些文件。
+
+GitHub 网络不稳定时，可稍后重试或联系软件提供者。
